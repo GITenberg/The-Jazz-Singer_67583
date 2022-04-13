@@ -1,0 +1,41 @@
+_repo: The-Jazz-Singer_67583
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Raphaelson, Samson
+    aliases:
+    - Raphaelson, Samuel
+    - Ralphaelson, Samson
+    birthdate: 1896
+    deathdate: 1983
+    gutenberg_agent_id: '54346'
+    url: http://www.gutenberg.org/2009/agents/54346
+    wikipedia: https://en.wikipedia.org/wiki/Samson_Raphaelson
+description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Jazz_Singer_(play)
+
+  Based on his story, “The Day of Atonement,” in Everybody’s Magazine, January, 1922.'
+gutenberg_issued: '2022-03-08'
+identifiers:
+  gutenberg: '67583'
+  lccn: '26000652'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015029904847
+pgterms:marc905: 20220209183834raphaelson
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Ronald Grenier (This file was produced from images generously made
+  available by the Hathi Trust)
+publication_note: United States :Brentano's,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish families -- Drama'
+- !lcsh 'New York (N.Y.) -- Drama'
+- !lcsh 'Fathers and sons -- Drama'
+- !lcsh 'Jewish singers -- Drama'
+- !lcsh 'Cantors (Judaism) -- Drama'
+- !lcc 'PS'
+- GITenberg
+title: The Jazz Singer
+url: http://www.gutenberg.org/ebooks/67583
